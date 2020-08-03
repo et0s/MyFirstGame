@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: 6cb349a086566a2458ff6d6dd00e3bf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7794586433422839053
+    second: Flower_ansheet_0
+  - first:
+      213: -3728160481315738017
+    second: Flower_ansheet_1
+  - first:
+      213: 3360256934842290687
+    second: Flower_ansheet_2
+  - first:
+      213: -8301713600997221737
+    second: Flower_ansheet_3
+  - first:
+      213: 961720243462878406
+    second: Flower_ansheet_4
+  - first:
+      213: -8770327227974532278
+    second: Flower_ansheet_5
+  - first:
+      213: -86495319766755282
+    second: Flower_ansheet_6
+  - first:
+      213: 6803944497510983759
+    second: Flower_ansheet_7
+  - first:
+      213: -7967089321170652304
+    second: Flower_ansheet_8
+  - first:
+      213: 8520276504481953750
+    second: Flower_ansheet_9
+  - first:
+      213: 5945467336151231800
+    second: Flower_ansheet_10
+  - first:
+      213: 5041270854133010128
+    second: Flower_ansheet_11
+  - first:
+      213: -7650676642008367808
+    second: Flower_ansheet_12
+  - first:
+      213: 160530792572487899
+    second: Flower_ansheet_13
+  - first:
+      213: 2569867227559311947
+    second: Flower_ansheet_14
+  - first:
+      213: -1341368314360787709
+    second: Flower_ansheet_15
+  - first:
+      213: -2592342746259549376
+    second: Flower_ansheet_16
+  - first:
+      213: -1254325413952143303
+    second: Flower_ansheet_17
+  - first:
+      213: -6940973733387415363
+    second: Flower_ansheet_18
+  - first:
+      213: 9140555022072314220
+    second: Flower_ansheet_19
+  - first:
+      213: 150851637852080769
+    second: Flower_ansheet_20
+  - first:
+      213: 5998507374732859014
+    second: Flower_ansheet_21
+  - first:
+      213: 7517825686338667434
+    second: Flower_ansheet_22
+  - first:
+      213: 2783448803752681553
+    second: Flower_ansheet_23
+  - first:
+      213: 6536737062876003125
+    second: Flower_ansheet_24
+  - first:
+      213: -8443450082520063441
+    second: Flower_ansheet_25
+  - first:
+      213: -3956413395288506672
+    second: Flower_ansheet_26
+  - first:
+      213: -2094634125530569038
+    second: Flower_ansheet_27
+  - first:
+      213: 9182334787952722725
+    second: Flower_ansheet_28
+  - first:
+      213: -1008499973425138552
+    second: Flower_ansheet_29
+  - first:
+      213: 997370070873461299
+    second: Flower_ansheet_30
+  - first:
+      213: 7092074179568713838
+    second: Flower_ansheet_31
+  - first:
+      213: -8149970148835027304
+    second: Flower_ansheet_32
+  - first:
+      213: -861070980205443897
+    second: Flower_ansheet_33
+  - first:
+      213: -1143278981385168229
+    second: Flower_ansheet_34
+  - first:
+      213: 8172430786357733949
+    second: Flower_ansheet_35
+  - first:
+      213: -7947832524128051620
+    second: Flower_ansheet_36
+  - first:
+      213: 5858876327035335711
+    second: Flower_ansheet_37
+  - first:
+      213: 4099624104740792689
+    second: Flower_ansheet_38
+  - first:
+      213: -9062776939980667663
+    second: Flower_ansheet_39
+  - first:
+      213: -7169949849540892187
+    second: Flower_ansheet_40
+  - first:
+      213: -5221064303592464906
+    second: Flower_ansheet_41
+  - first:
+      213: 8502866460726510631
+    second: Flower_ansheet_42
+  - first:
+      213: 3557169813324883444
+    second: Flower_ansheet_43
+  - first:
+      213: -982045716454116418
+    second: Flower_ansheet_44
+  - first:
+      213: -895131313149662931
+    second: Flower_ansheet_45
+  - first:
+      213: -6998270975052657191
+    second: Flower_ansheet_46
+  - first:
+      213: -1433359815704517523
+    second: Flower_ansheet_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flower_ansheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 207
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d4f3f401feb2c60800000000000000
+      internalID: 7794586433422839053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 207
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ea68d7bc9e24cc0800000000000000
+      internalID: -3728160481315738017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1515bf0e702ae20800000000000000
+      internalID: 3360256934842290687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 208
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a1889d6736acc80800000000000000
+      internalID: -8301713600997221737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 202
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c438ec4777b85d00800000000000000
+      internalID: 961720243462878406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 202
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4344a47ad9894680800000000000000
+      internalID: -8770327227974532278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 203
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28919607f4bccef0800000000000000
+      internalID: -86495319766755282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 204
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48ad9db8777c6e50800000000000000
+      internalID: 6803944497510983759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073b0dd49763f6190800000000000000
+      internalID: -7967089321170652304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 176
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7f0c5a65a1e3670800000000000000
+      internalID: 8520276504481953750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 177
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d6bf2ba0b828250800000000000000
+      internalID: 5945467336151231800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 177
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dec02dc12136f540800000000000000
+      internalID: 5041270854133010128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 174
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d76bd012653d590800000000000000
+      internalID: -7650676642008367808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 174
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd88bc2c7e15a3200800000000000000
+      internalID: 160530792572487899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 175
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3792b0a00aa320800000000000000
+      internalID: 2569867227559311947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 176
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d8f8dff90826de0800000000000000
+      internalID: -1341368314360787709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0439321d106260cd0800000000000000
+      internalID: -2592342746259549376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 145
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93043a48eadb79ee0800000000000000
+      internalID: -1254325413952143303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db050221a25bcaf90800000000000000
+      internalID: -6940973733387415363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 146
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6978842d56c9de70800000000000000
+      internalID: 9140555022072314220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 148
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a85ffe3cee71200800000000000000
+      internalID: 150851637852080769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 148
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68653850daafe3350800000000000000
+      internalID: 5998507374732859014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 150
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3068d61aea45860800000000000000
+      internalID: 7517825686338667434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 150
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502a2e80fbc0a620800000000000000
+      internalID: 2783448803752681553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 114
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bbadeb9b727ba50800000000000000
+      internalID: 6536737062876003125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 114
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2226a0a2e6d2da80800000000000000
+      internalID: -8443450082520063441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de3b3d9afef719c0800000000000000
+      internalID: -3956413395288506672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 114
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6e6555c5d5ee2e0800000000000000
+      internalID: -2094634125530569038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 111
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52342ace6d43e6f70800000000000000
+      internalID: 9182334787952722725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 111
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884f0001e961102f0800000000000000
+      internalID: -1008499973425138552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 112
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332d4009bce57dd00800000000000000
+      internalID: 997370070873461299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 112
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c9e114eb1c6260800000000000000
+      internalID: 7092074179568713838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 84
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89696ac745d75ee80800000000000000
+      internalID: -8149970148835027304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 84
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c40572718cdc04f0800000000000000
+      internalID: -861070980205443897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 84
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9add53e2d14220f0800000000000000
+      internalID: -1143278981385168229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 84
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aa154308e4a6170800000000000000
+      internalID: 8172430786357733949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 73
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e1d01cd60a3b190800000000000000
+      internalID: -7947832524128051620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 73
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14f2ef4af8ee4150800000000000000
+      internalID: 5858876327035335711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 74
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17924bb076ac4e830800000000000000
+      internalID: 4099624104740792689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 74
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4c9d5c36c8a3280800000000000000
+      internalID: -9062776939980667663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 58
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9efb099983f7c90800000000000000
+      internalID: -7169949849540892187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 58
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd16e2adad0b87b0800000000000000
+      internalID: -5221064303592464906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724cf24feff300670800000000000000
+      internalID: 8502866460726510631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 58
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e8f8391b9d5130800000000000000
+      internalID: 3557169813324883444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 26
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3fe8dbf921f52f0800000000000000
+      internalID: -982045716454116418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 26
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29a26430dad393f0800000000000000
+      internalID: -895131313149662931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 28
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd4f0a60a521ee90800000000000000
+      internalID: -6998270975052657191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_ansheet_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 28
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64ec9587deab1ce0800000000000000
+      internalID: -1433359815704517523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
